@@ -1,0 +1,516 @@
+.emailer {
+  width: 550px;
+  height: 1918px;
+}
+.Rectangle {
+  width: 545px;
+  height: 150px;
+  background-color: #e8486f;
+}
+.container {
+	/*background-color: #d8d8d8;*/
+	border-style: groove;
+}
+.Rectangle-5 {
+  width: 510px;
+  height: 240px;
+  /*background-color: #d8d8d8;*/
+}
+.Rectangle-2 {
+  width: 510px;
+  height: 48px;
+  border-radius: 4px;
+  background-color: #e9486f;
+   font-family: HelveticaNeue;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top:40px;
+}
+.Bitmap {
+  width: 509px;
+  height: 240px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px
+}
+.explore-logo8d6552 {
+  width: 72.5px;
+  height: 25px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 11px;
+  margin-left: 240px;
+  margin-right: 241.5px;
+  /*margin-bottom: 114px;*/
+}
+.-You-have-a-new-bo {
+  width: 452px;
+  height: 35px;
+  font-family: HelveticaNeue;
+  font-size: 27px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  margin-left: 49px;
+  margin-right: 49px;
+  /*margin-top: 94px;*/
+  margin-bottom: 21px;
+}
+.Startup-house-Banga {
+  width: 243px;
+  height: 30px;
+  font-family: HelveticaNeue;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #e9486f;
+  margin-left: 20px;
+  margin-top:20px;
+}
+.Tent-on-the-rooftop {
+  width: 388px;
+  height: 24px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #2d2d32;
+  margin-left: 20px;
+  margin-right: 142px;
+  margin-top: 10px;
+}
+
+.Tent-on-the-rooftop .text-style-1 {
+  font-weight: bold;
+}
+
+.CHECK-IN {
+  width: 57px;
+  height: 24px;
+  font-family: HelveticaNeue;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #787887;
+  margin-left:20px;
+  margin-top: 30px;
+}
+
+.CHECK-out {
+  width: 70px;
+  height: 24px;
+  font-family: HelveticaNeue;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: right;
+  color: #787887;
+  margin-left: 365px;
+  margin-right: 20px;
+}
+.Fri-25-March-2016 {
+  width: 180px;
+  height: 24px;
+  font-family: HelveticaNeue;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #2d2d32;
+  margin-left: 20px;
+}
+.Fri-25-March-2016-2 {
+  width: 180px;
+  height: 24px;
+  font-family: HelveticaNeue;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #2d2d32;
+  margin-left: 150px;
+}
+.Line {
+  width: 510px;
+  height: 2px;
+  border: solid 1px #dcdce1;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.ABOUT-GUEST {
+  width: 84px;
+  height: 24px;
+  font-family: HelveticaNeue;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #787887;
+  margin-left: 20px;
+  margin-top:30px;
+  margin-right: 446px;
+}
+.Piyush-Narwani {
+  width: 170px;
+  height: 29px;
+  font-family: ProximaNova;
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #38363c;
+  margin-top:5px;
+  margin-left: 20px;
+  /*margin-right: 360px;*/
+}
+.Oval {
+  width: 64px;
+  height: 64px;
+  /*margin-right: 20px;*/
+  /*margin-left: 276px;*/
+}
+.I-love-travelling-an {
+  width: 426px;
+  height: 96px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #38363c;
+  /*margin-left: 20px;*/
+  margin-right: 104px;
+}
+.INTERESTING-THING-AB {
+  width: 190px;
+  height: 24px;
+  font-family: HelveticaNeue;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #787887;
+  margin-top:60px;
+  margin-left: 20px;
+  /*margin-right: 343px;*/
+}
+.I-love-travelling-an2 {
+  width: 510px;
+  height: 72px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #38363c;
+  margin-left: 20px;
+}
+.BOOKING-details {
+  width: 106px;
+  height: 24px;
+  font-family: HelveticaNeue;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #787887;
+  margin-left: 20px;
+  margin-right: 424px;
+  margin-top: 50px;
+}
+table {
+	margin-left: 20px;
+	margin-top: 21px;
+	width: 100%;
+	
+}
+td {
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+}
+tr {
+	border-bottom-style: solid;
+	border-bottom-color: #dcdce1;
+	border-bottom-width: 1px;
+	border-collapse: separate;
+	border-spacing: 12px;
+}
+.item {
+	font-weight: bold;
+	text-align: right;
+	margin-right: 20px;
+	width: 300px;
+}
+.layer {
+  width: 67px;
+  height: 24px;
+  font-family: HelveticaNeue;
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: right;
+  color: #000000;
+}
+.Rectangle-7 {
+  width: 510px;
+  height: 149px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: solid 1px #dbdbdf;
+  margin-top:46px;
+  margin-left:20px;
+  margin-right: 20px;
+}
+.layer2 {
+  width: 19px;
+  height: 20px;
+  font-family: AppleColorEmoji;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+  margin-right: 8px;
+
+}
+.Refer-and-earn {
+  height: 20px;
+  font-family: HelveticaNeue;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+  margin-top: 15px;
+  margin-left: 8px;
+}
+.SHARE-CODE {
+  width: 77px;
+  height: 24px;
+  font-family: HelveticaNeue;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #787887;
+  margin-right: 20px;
+  margin-left: 413px;
+}
+.I-love-travelling-an3 {
+  height: 72px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+  margin-left: 20px;
+}
+.Rectangle-3 {
+  width: 128px;
+  height: 41px;
+  border: dashed 1px #979797;
+  margin-right: 20px;
+  margin-left: 85px;
+}
+.WEWUTRTR {
+  width: 95px;
+  height: 24px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #e9486f;
+  margin-left: 15px;
+  margin-top: 6px;
+  /*margin-bottom: 8px;*/
+  margin-right: 16px;
+}
+.Rectangle-9 {
+  width: 550px;
+  height: 295px;
+  background-color: #2d2d32;
+  margin-top: 1230px;
+}
+.c0062017-Explore {
+  width: 331px;
+  height: 24px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  margin-left: 20px;
+  margin-top: 35px;
+}
+.fb-icon {
+  width: 19.5px;
+  height: 19.5px;
+  background-color: #CACACC;
+  padding: 0.05em 0.3em;
+
+}
+.instagram-icon {
+  width: 19.5px;
+  height: 19.5px;
+  background-color: #CACACC;
+  padding-top: 0.05em;
+  padding-right: 0.3em;
+  padding-bottom: 0.07em;
+  padding-left: 0.19em;
+}
+.linkedin-icon {
+  width: 19.5px;
+  height: 19.5px;
+  background-color: #CACACC;
+  padding-top: 0.05em;
+  padding-right: 0.3em;
+  padding-bottom: 0.07em;
+  padding-left: 0.19em;
+}
+.circle{
+	border-radius: 50%;
+	margin: 0.15em;
+	margin-right: 18px;
+}	
+.icons {
+	margin-top:36px;
+}
+.Contact-us {
+  width: 77px;
+  height: 24px;
+  opacity: 0.5;
+  font-family: HelveticaNeue;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.phno {
+  width: 128px;
+  height: 18px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.timings {
+  width: 262px;
+  height: 24px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  margin-left: 20px;
+  margin-top: 6px;
+}
+.By-joining-you-agre {
+  width: 270px;
+  height: 24px;
+  font-family: HelveticaNeue;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  margin-top:60px;
+  margin-left: 140px;
+}
